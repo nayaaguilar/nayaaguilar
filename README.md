@@ -6,7 +6,7 @@ What I've been learning 🤓
 I've been studying and practicing through projects with technologies such as: Python3, PostgreSQL, AWS and i'm also studying Flutter.
 
 Hobbies and interests ✨
-I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my pets for a walk in the park ( 🐾 ).
+I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my pets for a walk in the park (🐾)
 
 ![Snake animation](https://github.com/nayyadev/nayyadev/blob/output/github-contribution-grid-snake.svg)
 
