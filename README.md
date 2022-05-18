@@ -1,6 +1,6 @@
 
 ## Hello everyone! 👋🏽
-My name is Nayara, I'm a software development student currently working as a Backend Engineer intern at Zé Delivery.
+My name is Nayara, I'm a software development student currently working as a Backend Engineer intern at Zé Delivery by AB INBEV.
 
 ### What I've been learning 🤓
 I've been studying and practicing through projects with technologies such as: Python3, PostgreSQL, AWS and i'm also studying Flutter.
