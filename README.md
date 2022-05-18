@@ -8,8 +8,8 @@
 <h1 align="center"></h1>
 
 
+## Hello everyone! <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width="40">
 
-## Hello everyone! 👋🏽
 My name is Nayara, I'm a software development student currently working as a Backend Engineer intern at Zé Delivery by AB INBEV.
 
 ### What I've been learning 🤓
