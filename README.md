@@ -8,12 +8,22 @@ I've been studying and practicing through projects with technologies such as: Py
 ### Hobbies and interests ✨
 I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my pets for a walk in the park (🐾)
 
+### ⚙️ &nbsp;GitHub Analytics
+<div align="center"/>
+<p align="">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nayaaguilar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nayaaguilar&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
+<br>
+  
+<div align="center"> 
 <a href="https://www.linkedin.com/in/nayara-aguilar-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://codepen.io/nayara-aguilar" target="_blank"><img src="https://img.shields.io/badge/-CodePen-purple?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/nayaaguillar/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>  <a href="mailto:nayara.aguillar@gmail.com?Subject=Título%20da%20mensagem" target="_blank"><img src="https://img.shields.io/badge/-Gmail-lightgray?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
 
-<p align="center">
-  <img src="https://github.com/nayaaguilar/nayaaguilar/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+
 
 <!--
 **nayaaguilar/nayaaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
