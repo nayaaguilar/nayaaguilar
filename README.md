@@ -1,3 +1,13 @@
+<div align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=35&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+github's+profile)](https://git.io/typing-svg)
+</div>
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=nayaaguilar.nayaaguilar" />
+<img align="right" src="https://img.shields.io/github/followers/nayaaguilar?label=Follow&style=social" />
+<h1 align="center"></h1>
+
+
 
 ## Hello everyone! 👋🏽
 My name is Nayara, I'm a software development student currently working as a Backend Engineer intern at Zé Delivery by AB INBEV.
