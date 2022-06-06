@@ -37,8 +37,10 @@ I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my
 <img aling="center"src="https://img.shields.io/badge/Python-0095D5?&style=for-the-badge&logo=python&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/AWS-F7DF1E?style=for-the-badge&logo=amazon&logoColor=black">
 <img aling="center"src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img aling="center"src="https://img.shields.io/badge/Terraform-83c5be?style=for-the-badge&logo=terraform&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/Lambda-E95420?style=for-the-badge&logo=awslambda&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/DynamoDB-316192?style=for-the-badge&logo=awsdynamo&logoColor=white">
+<img aling="center"src="https://img.shields.io/badge/Docker-bde0fe?style=for-the-badge&logo=dockero&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/Flutter-00C7B7?style=for-the-badge&logo=flutter&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css&logoColor=white">
@@ -46,6 +48,7 @@ I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my
 <img aling="center"src="https://img.shields.io/badge/Grafana-ae2012?style=for-the-badge&logo=grafana&logoColor=ee9b00">
 <img aling="center"src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/MetaBase-F7DF1E?style=for-the-badge&logo=metabase&logoColor=black">
+<img aling="center"src="https://img.shields.io/badge/Backstage-57cc99?style=for-the-badge&logo=backstage&logoColor=black">
 </img>
 </div>
 
