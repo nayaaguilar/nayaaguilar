@@ -43,7 +43,9 @@ I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my
 <img aling="center"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/CSS-43853D?style=for-the-badge&logo=css&logoColor=white">
 <img aling="center"src="https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=61DAFB">
+<img aling="center"src="https://img.shields.io/badge/Grafana-ae2012?style=for-the-badge&logo=grafana&logoColor=ee9b00">
 <img aling="center"src="https://img.shields.io/badge/Git-E95420?style=for-the-badge&logo=git&logoColor=white">
+<img aling="center"src="https://img.shields.io/badge/MetaBase-F7DF1E?style=for-the-badge&logo=metabase&logoColor=black">
 </img>
 </div>
 
