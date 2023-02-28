@@ -10,13 +10,13 @@
 
 ## Hello everyone! <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width="40">
 
-My name is Nayara, I'm a software development student currently working as a Backend Engineer intern at Zé Delivery by AB INBEV.
+My name is Nayara, I'm a software development student currently working as a Backend Engineer Jr at Zé Delivery by AB INBEV.
 
-### What I've been learning 🤓
-I've been studying and practicing through projects with technologies such as: Python3, PostgreSQL, AWS and i'm also studying Flutter.
+### Technology Skills 🤓
+Python, AWS, SQL, Git, Github, PostgreeSQL, GraphQL, Docker, DataDog, MetaBase.
 
 ### Hobbies and interests ✨
-I really love drawing (🎨), volleyball (🏐), videogames (🎮) and taking my pets for a walk in the park (🐾)
+I really love drawing (🎨), volleyball (🏐), videogames (🎮) and talk about Tech (👩🏽‍💻).
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
