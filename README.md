@@ -10,13 +10,15 @@
 
 ## Hello everyone! <img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width="40">
 
-My name is Nayara, I'm a software development student currently working as a Backend Engineer Jr at Zé Delivery by AB INBEV.
+My journey as a backend software engineer is quite diverse. Before discovering my love for technology, my very first job was as an English teacher. If there's something I love doing, it's definitely teaching someone things that I learn along the way. There, I was able to develop and improve my communication and interpersonal skills. Then, I pursued a law degree and served as a law assistant in court for about seven years. This experience sharpened my analytical thinking, attention to detail, and ability to handle complex situations. However, I always had a passion for technology. To follow my dream, I decided to switch careers and enter the tech world. Currently, I am a Backend Software Engineer at ABInBev. Here, I work on various projects aimed at enhancing our seller ecosystem. My contributions have included developing solutions for plan management, seller account management, and reimbursement handling.
+
+Feel free to reach out for discussions on technology, law, or anything in between ✨
 
 ### Technology Skills 🤓
-Python, AWS, SQL, Git, Github, PostgreeSQL, GraphQL, Docker, DataDog, MetaBase.
+Python ⋆ Git ⋆ GraphQL ⋆ Docker ⋆ PostgreSQL ⋆ AWS ⋆ DataDog ⋆ Metabase ⋆ HTML ⋆ CSS 
 
 ### Hobbies and interests ✨
-I really love drawing (🎨), volleyball (🏐), videogames (🎮) and talk about Tech (👩🏽‍💻).
+I really love drawing (🎨), volleyball (🏐), videogames (🎮) and talk about Tech (👩🏽‍💻)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
