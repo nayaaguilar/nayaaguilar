@@ -7,7 +7,7 @@
 <img align="right" src="https://img.shields.io/github/followers/nayaaguilar?label=Follow&style=social" />
 <h1 align="center"></h1>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <div align="center"> 
   
@@ -34,9 +34,6 @@
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-### &nbsp;Contacts
-<div align="center"> 
-<a href="https://www.linkedin.com/in/nayara-aguilar-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-lightgray?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://codepen.io/nayara-aguilar" target="_blank"><img src="https://img.shields.io/badge/-CodePen-lightgray?style=for-the-badge&logo=CodePen&logoColor=white" target="_blank"></a>  <a href="mailto:nayara.aguillar@gmail.com?Subject=Título%20da%20mensagem" target="_blank"><img src="https://img.shields.io/badge/-Gmail-lightgray?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a> 
 <!--
 **nayaaguilar/nayaaguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
